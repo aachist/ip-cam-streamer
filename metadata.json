@@ -1,0 +1,5 @@
+{
+  "name": "IP Стример",
+  "description": "React приложение для просмотра MJPEG или JPEG снимков с локальных IP камер с настраиваемой частотой обновления.",
+  "requestFramePermissions": []
+}
